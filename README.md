@@ -1,5 +1,8 @@
 # Deterministic And Stochastic models for Zika Virus Transmission
 
+Implementation of the paper: Deterministic and stochastic CTMC models from Zika disease transmission 
+https://www.researchgate.net/publication/323608978_Deterministic_and_stochastic_CTMC_models_from_Zika_disease_transmission
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
